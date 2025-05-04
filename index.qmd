@@ -5,3 +5,5 @@ format: html
 ---
 
 testing with QMD
+
+quarto render index.qmd
