@@ -1,6 +1,0 @@
----
-title: "My Website"
-description: Everything about Krishna Pakala
-format: html
----
-Hello!
