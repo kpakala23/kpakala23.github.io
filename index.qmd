@@ -1,6 +1,6 @@
 ---
-title: "SDS 366"
-description: Data Visualization in R
+title: "My Website"
+description: Everything about Krishna Pakala
 format: html
 ---
 Hello!
