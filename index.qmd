@@ -1,0 +1,7 @@
+---
+title: "SDS 366"
+description: Data Visualization in R
+format: html
+---
+
+testing with QMD
