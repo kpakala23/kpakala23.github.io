@@ -1,0 +1,11 @@
+---
+title: "Example Document"
+format: html
+---
+
+# Hello Quarto
+
+This is a Quarto document with R code:
+
+```{r}
+summary(cars)
