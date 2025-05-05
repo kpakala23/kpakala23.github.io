@@ -1,11 +1,8 @@
 ---
-title: "Example Document"
+title: "Welcome to My Website"
 format: html
 ---
 
-# Hello Quarto
+# Hello, World!
 
-This is a Quarto document with R code:
-
-```{r}
-summary(cars)
+Welcome to my website. This is a Quarto-generated page.
