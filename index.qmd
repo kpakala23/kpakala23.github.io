@@ -7,7 +7,7 @@ format:
 # Everything I do!
 A compilation of everything I am involved with! This includes academics and school/career related activites, and also just things I do in my free time!
 
-[![My Awesome Project](/images/headphones.jpg)](/projects/music/)
+[![My Awesome Project](/images/headphones.jpg)](/projects/music/index.qmd)
 
 Welcome to my website. This is a Quarto-generated page.
 
