@@ -1,10 +1,5 @@
 ---
-title: "Krishna Pakala"
+title: "My Music"
 format: html
 ---
-# Everything I do!
-A compilation of everything I am involved with! This includes academics and school/career related activites, and also just things I do in my free time!
-
-[![My Awesome Project]("C:\Users\Krishna Pakala\Downloads\luke-peterson-lUMj2Zv5HUE-unsplash.jpg")](/path/to/your/new_page.html)
-
-Welcome to my website. This is a Quarto-generated page.
+# This is my music
