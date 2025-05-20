@@ -1,0 +1,10 @@
+/* filepath: c:\Users\Krishna Pakala\Documents\GitHub\kpakala23.github.io\styles.css */
+body {
+    max-width: 1200px; /* Adjust this value to your desired width */
+    margin: 0 auto;    /* Center the content */
+}
+
+.page-columns {
+    max-width: 1200px; /* Adjust the width of the main content area */
+    margin: 0 auto;
+}

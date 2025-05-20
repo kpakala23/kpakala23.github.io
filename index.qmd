@@ -1,6 +1,8 @@
 ---
 title: "Krishna Pakala"
-format: html
+format: 
+  html:
+    css: styles.css
 ---
 # Everything I do!
 A compilation of everything I am involved with! This includes academics and school/career related activites, and also just things I do in my free time!
