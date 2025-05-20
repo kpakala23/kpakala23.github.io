@@ -1,9 +1,11 @@
 ---
-title: "Welcome to My Website"
+title: "Krishna Pakala"
 format: html
 ---
+# Everything I do!
+A compilation of everything I am involved with! This includes academics and school/career related activites, and also just things I do in my free time!
 
-# Hello, World!
+[![My Awesome Project](/images/headphones.jpg)](/projects/music/)
 
 Welcome to my website. This is a Quarto-generated page.
 
@@ -18,4 +20,5 @@ future: any other research labs
 4. volunteering - crisis text line, reading aces, CPS, etc
 5. sports & gym stuff - weight loss journey, journey with my knees/hips and flexibility, stretching, etc, 
 6. RUNNING - any events i run (ex: longhorn run) or anything related to RUNNING
-7. update this list constantly...
+7. Agemates & my involvement with them 
+update this list constantly...
